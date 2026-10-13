@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AsyncStorageApp</string>
+    <string name="hint_dato">Escribe algo para guardar…</string>
+    <string name="btn_guardar">Guardar Localmente</string>
+    <string name="btn_leer">Leer Dato Guardado</string>
+    <string name="dato_inicial">Dato almacenado: [ Ninguno ]</string>
+    <string name="dato_almacenado">Dato almacenado: %1$s</string>
+    <string name="valor_por_defecto">Ninguno</string>
+    <string name="guardado_ok">¡Guardado con éxito!</string>
+    <string name="escribe_algo">Por favor escribe algo</string>
+</resources>
